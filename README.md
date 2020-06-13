@@ -149,7 +149,9 @@ yearValue = InputBox("What year would you like to run the analysis on?")
         Cells(4, 3).Value = "Return"
     
     
-        'Code to copy unique values to an empty column taken from https://superuser.com/questions/884115/macro-to-copy-distinct-values-from-one-excel-sheet-to-another and 'https://www.ozgrid.com/forum/index.php?thread/141957-copy-unique-values-from-a-list/
+        'Code to copy unique values to an empty column taken from 
+        https://superuser.com/questions/884115/macro-to-copy-distinct-values-from-one-excel-sheet-to-another and               
+        https://www.ozgrid.com/forum/index.php?thread/141957-copy-unique-values-from-a-list/
         Worksheets(yearValue).Activate
         Range("A:A").AdvancedFilter Action:=xlFilterCopy, CopyToRange:=Range("M1"), Unique:=True
         
