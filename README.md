@@ -272,7 +272,18 @@ However, when we look at the 2018 results, only two stocks recorded positive ret
 1) RUN (83.95%)
 2) ENPH (81.92%)
 
-![](
+![](https://github.com/GR8505/stock-analysis/blob/master/2018Output.png)
+
+
+So I will advise an investor to go for either ENPH or RUN instead of DQ.
+### Reasons ###
+1) Although ENPH registered a decline in return from 129.52% in 2017 to 81.92% in 2018, total volume traded remains healthy.
+   Total volume traded actually increased by 41.9%.
+2) RUN recorded a significant increase in return from around 5.5% in 2017 to just under 84% in 2018.  Furthermore, stock activity
+   improved with total volume traded moving from just under 2 billion in 2017 to around 2.2 billion in 2018.
+   
+   
+**____________________________________________________________________________________________________________________________________**
 
 
 
