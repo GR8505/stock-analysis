@@ -256,6 +256,14 @@ ________________________________________________________________________________
 
 ## Conclusion ##
 
+Based on the 2017 results, the three stocks with the highest returns were:
+1) DQ (199.45%)
+2) SEDG (184.47%)
+3) ENPH (129.52%)
+
+Out of these three, SEDG had the highest level of activity in the stock market with over 2 million total volume traded (4th highest).
+
+![](
 
 
 
