@@ -263,7 +263,10 @@ Based on the 2017 results, the three stocks with the highest returns were:
 
 Out of these three, SEDG had the highest level of activity in the stock market with over 2 million total volume traded (4th highest).
 
-![](
+![](https://github.com/GR8505/stock-analysis/blob/master/2017Output.png)
+
+
+
 
 
 
