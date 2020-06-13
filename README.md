@@ -16,7 +16,7 @@ Sub AllStocksAnyYear()
 
 yearValue = InputBox("What year would you like to run the analysis on?")
     
-    ***Creating headings for AllStocksAnalysis spreadsheet***
+    * Creating headings for AllStocksAnalysis spreadsheet *
     Worksheets("AllStocksAnalysis").Activate
     Cells(1, 1).Value = "All Stocks (" + yearValue + ")"
     Cells(4, 1).Value = "Ticker"
