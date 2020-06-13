@@ -261,10 +261,18 @@ Based on the 2017 results, the three stocks with the highest returns were:
 2) SEDG (184.47%)
 3) ENPH (129.52%)
 
-Out of these three, SEDG had the highest level of activity in the stock market with over 2 million total volume traded (4th highest).
+Out of these three, SEDG had the highest level of activity in the stock market with a total volume traded of over 2 billion
+(4th highest).
+
 
 ![](https://github.com/GR8505/stock-analysis/blob/master/2017Output.png)
 
+
+However, when we look at the 2018 results, only two stocks recorded positive returns:
+1) RUN (83.95%)
+2) ENPH (81.92%)
+
+![](
 
 
 
